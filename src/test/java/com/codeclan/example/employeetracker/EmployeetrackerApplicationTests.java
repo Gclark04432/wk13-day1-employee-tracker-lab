@@ -10,4 +10,9 @@ class EmployeetrackerApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	public void canAddEmployee(){
+
+	}
+
 }
